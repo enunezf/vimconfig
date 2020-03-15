@@ -29,10 +29,6 @@ set textwidth=79
 set undofile
 set undodir=~/.vim/undodir
 
-" More natural split opening
-set splitbelow
-set splitright
-
 " Search faster
 set wildignore=*.dll,*.exe,*.pyc,*.pdf,*.doc,*.gz
 
